@@ -3,11 +3,14 @@
 This is a list of the papers I particularly enjoy and would love to share with you.
 
 ##### Table of Contents  
-[Machine Learning](#machine-learning)  
-[Distributed System](#distributed-system)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Machine Learning](#machine-learning)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Distributed System](#distributed-system)  
+
+======
 
 <a name="machine-learning"/>
 #### Machine Learning
+
 
 <a name="distributed-system"/>
 #### Distributed System
