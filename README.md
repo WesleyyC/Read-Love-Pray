@@ -13,7 +13,7 @@ This is a list of papers :bookmark_tabs: that I particularly enjoy and would lov
 
 * #### [Deep learning](https://github.com/WesleyyC/Read-Love-Pray/blob/master/deep-learning.pdf)
 
-  This is a review paper by Yan LeCun et cl and it gives a good general picture about deep learning. In my opinion, what a wikipedia page should look like after the summary section.
+  This is a review paper by Yan LeCun et al. and it gives a good general picture about deep learning. In my opinion, what a wikipedia page should look like after the summary section.
   
 * #### [Dropout](https://github.com/WesleyyC/Read-Love-Pray/blob/master/dropout.pdf)
 
