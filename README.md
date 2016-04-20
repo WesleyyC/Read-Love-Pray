@@ -23,8 +23,17 @@ This is a list of papers :bookmark_tabs: that I particularly enjoy and would lov
 
   This is a very high profile paper. While the concepts in the paper are not new, the way Deepmind teams put them together is an engineering gem. Plus, it is a interesting challenge as Go is not an easy game...
 
+======  
 
 <a name="distributed-system"/>
 ### Distributed System
 
-To be continued...
+* #### [Paxos made simple](https://github.com/WesleyyC/Read-Love-Pray/blob/master/paxos.pdf)
+
+  This is not a paper but a very simple and clear explanation for Paxos, which is considered to be difficult to understand. I think Paxos is a super neat idea to replicate nodes and imagine a bunch machine vote about what they want to do together is hilarious. While not very efficient communication wise, forcing partition overlap using majority is so simple in math and so powerful in system.
+  
+* #### [Dynamo](https://github.com/WesleyyC/Read-Love-Pray/blob/master/dynamo.pdf)
+
+  Dynamo is an interesting paper for me because it shows what engineering really is. 
+
+  
