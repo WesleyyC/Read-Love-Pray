@@ -11,6 +11,11 @@ This is a list of papers :bookmark_tabs: that I particularly enjoy and would lov
 <a name="machine-learning"/>
 ### Machine Learning
 
+* #### [A Few Useful Things to Know about Machine Learning](https://github.com/WesleyyC/Read-Love-Pray/blob/master/a-few-useful-things-to-know-about-machine-learning.pdf)
+
+  This article summarizes twelve key lessons that machine learning researchers and practitioners have learned. While these lessons are simple to understand, I learn something new everytime I read it.
+
+
 * #### [Deep learning](https://github.com/WesleyyC/Read-Love-Pray/blob/master/deep-learning.pdf)
 
   This is a review paper by Yan LeCun et al. and it gives a good general picture about deep learning. In my opinion, what a wikipedia page should look like after the summary section.
