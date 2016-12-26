@@ -4,7 +4,8 @@ This is a list of papers :bookmark_tabs: that I particularly enjoy and would lov
 
 ##### Table of Contents  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Machine Learning](#machine-learning)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Distributed System](#distributed-system)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Neuroscience](#neuroscience)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Distributed System](#distributed-system) 
 
 ======
 
@@ -27,6 +28,23 @@ This is a list of papers :bookmark_tabs: that I particularly enjoy and would lov
 * #### [Go Game and Deep Learning](https://github.com/WesleyyC/Read-Love-Pray/blob/master/mastering-the-game-of-Go-with-deep-neural-networks-and-tree-search.pdf)
 
   This is a very high profile paper. While the concepts in the paper are not new, the way Deepmind teams put them together is an engineering gem. Plus, it is a interesting challenge as Go is not an easy game...
+  
+======  
+
+<a name="neuroscience"/>
+### Neuroscience
+
+* #### [A Quantitativer Description of Membrane Current](https://github.com/WesleyyC/Read-Love-Pray/blob/master/A%20Quantitativer%20Description%20of%20Membrane%20Current%20and%20its%20Application%20to%20Conduction%20and%20Excitation%20in%20Nerve.pdf)
+
+  This paper far before we knew anything about ion channel in neuro signaling, but via rigorous experiment setup and amazing imagination, Hodgkin and Huxley formula the ion channel behavior which still makes sense today. (It does take a while to get used to their notation since they used different sign for polarization and hyperpolarization...)
+  
+* #### [Transient Dynamics versus Fixed Points in Odor Representations by Locust Antennal Lobe Projection Neurons](https://github.com/WesleyyC/Read-Love-Pray/blob/master/Transient%20Dynamics%20versus%20Fixed%20Points%20in%20Odor%20Representations%20by%20Locust%20Antennal%20Lobe%20Projection%20Neurons.pdf)
+
+  How PCA, a classic feature reduction techniques in ML, could help us visualize neuro coding and reveal the "state" coding regime?
+  
+* #### [Cortical Neural Ensemble Responses Emerges Suddenly](https://github.com/WesleyyC/Read-Love-Pray/blob/master/Cortical%20Neural%20Ensemble%20Responses%20Emerges%20Suddenly.pdf)
+
+  By the same token as the above paper, how hidden markov model could be used to explain neuro coding, specifically temporal coding.
 
 ======  
 
