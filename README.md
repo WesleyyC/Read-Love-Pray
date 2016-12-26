@@ -4,7 +4,9 @@ This is a list of papers :bookmark_tabs: that I particularly enjoy and would lov
 
 ##### Table of Contents  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Machine Learning](#machine-learning)  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Neuroscience](#neuroscience)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Distributed System](#distributed-system) 
 
 ======
