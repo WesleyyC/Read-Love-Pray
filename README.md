@@ -30,6 +30,22 @@ This is a list of papers :bookmark_tabs: that I particularly enjoy and would lov
 * #### [Go Game and Deep Learning](https://github.com/WesleyyC/Read-Love-Pray/blob/master/mastering-the-game-of-Go-with-deep-neural-networks-and-tree-search.pdf)
 
   This is a very high profile paper. While the concepts in the paper are not new, the way Deepmind teams put them together is an engineering gem. Plus, it is a interesting challenge as Go is not an easy game...
+
+* #### [Distilling the Knowledge in a Neural Network](https://github.com/WesleyyC/Read-Love-Pray/blob/master/Distilling%20the%20Knowledge%20in%20a%20Neural%20Network.pdf)
+
+  Simple tricks can help improve performance significantly but they usually come from insightful observation.
+
+* #### [Generative Adversarial Nets](https://github.com/WesleyyC/Read-Love-Pray/blob/master/GAN.pdf)
+
+  So Jerry is trying to generate images to trick Tom... This is a theoretical sound paper shedding lights towards a new path to deep learning. Let's generate and make inference while rationalizing the network.
+
+* #### [Steerable CNNs](https://github.com/WesleyyC/Read-Love-Pray/blob/master/Steerable%20CNNs.pdf)
+
+  Rationalize and understand CNN via group theory. It's math heavy, but isn't ML all about math :)
+
+* #### [Tree LSTM](https://github.com/WesleyyC/Read-Love-Pray/blob/master/Tree%20LSTM.pdf)
+
+  A paper about generativing sentence embedding via a LSTM with tree structure. I like this paper because it gives a great intro to the related work and generalizes to the classical sequential LSTM. Beautifullly formulated...
   
 ======  
 
