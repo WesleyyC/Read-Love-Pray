@@ -9,9 +9,10 @@ This is a list of papers :bookmark_tabs: that I particularly enjoy and would lov
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Distributed System](#distributed-system) 
 
-======
+---
 
 <a name="machine-learning"/>
+
 ### Machine Learning
 
 * #### [A Few Useful Things to Know about Machine Learning](https://github.com/WesleyyC/Read-Love-Pray/blob/master/a-few-useful-things-to-know-about-machine-learning.pdf)
@@ -47,9 +48,10 @@ This is a list of papers :bookmark_tabs: that I particularly enjoy and would lov
 
   A paper about generativing sentence embedding via a LSTM with tree structure. I like this paper because it gives a great intro to the related work and generalizes to the classical sequential LSTM. Beautifullly formulated...
   
-======  
+---
 
 <a name="neuroscience"/>
+
 ### Neuroscience
 
 * #### [A Quantitativer Description of Membrane Current](https://github.com/WesleyyC/Read-Love-Pray/blob/master/A%20Quantitativer%20Description%20of%20Membrane%20Current%20and%20its%20Application%20to%20Conduction%20and%20Excitation%20in%20Nerve.pdf)
@@ -64,9 +66,10 @@ This is a list of papers :bookmark_tabs: that I particularly enjoy and would lov
 
   By the same token as the above paper, how hidden markov model could be used to explain neuro coding, specifically temporal coding.
 
-======  
+---
 
 <a name="distributed-system"/>
+
 ### Distributed System
 
 * #### [Paxos made simple](https://github.com/WesleyyC/Read-Love-Pray/blob/master/paxos.pdf)
